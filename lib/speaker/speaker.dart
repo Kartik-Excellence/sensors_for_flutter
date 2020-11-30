@@ -17,6 +17,7 @@ class _SpeakerState extends State<Speaker> {
          SensiorBar()
         ],
       ),
+      backgroundColor: Colors.black,
       body: SoundPad(),
     );
   }
