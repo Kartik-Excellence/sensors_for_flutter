@@ -29,8 +29,9 @@ dependencies:
   # record_mp3: ^2.1.0
   # path_provider: ^1.6.24
   # permission_handler: ^5.0.1+1
-  file_picker: ^2.1.0
-  flutter_sound: ^6.4.2+1
+  # file_picker: ^2.1.0
+  # flutter_sound: ^6.4.2+1
+  volume: ^1.0.1
  
  
 
@@ -51,7 +52,7 @@ dev_dependencies:
 flutter:
   assets:
     - assets/sounds/
-    - dd.mp3
+    - chirp.wav
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
